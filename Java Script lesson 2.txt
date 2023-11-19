@@ -1,0 +1,16 @@
+Java script
+Lesson 2 
+need to learn about the history of Java Script
+the function itself we will write in the <HEAD> tag
+and when i want to use them i insert a <script> tag in the <BODY> tag 
+we created a function that called inserTeaxt and we put it inside an onclick function 
+now every time i click on the hello user it send me back hello to the console in the inspect
+to see what are the three common HTML events in W3School
+there are three type of tags to idetify it in css function <the name of the tag> or <the class of the tag> or 
+<the id of the tag> the one you want to use the most is the <id=" "> because each id is unique
+
+home work:
+to check if the user wrote a name and if he dosen't it will write some kind of error
+and need to try to create BMI Calculator
+
+
